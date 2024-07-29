@@ -1,6 +1,9 @@
 #### we are running our  backend node server on port number 3001
 #### as same port is configured under our frontend server
 
+### How to setup the server
+#### step 1: run `npm i` command
+#### run command `npm run start` to start the server
 # Tech stack used
 #### NodeJs
 #### ExpressJs
