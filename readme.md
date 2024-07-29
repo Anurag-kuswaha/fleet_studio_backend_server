@@ -3,7 +3,7 @@
 
 ### How to setup the server
 #### step 1: run `npm i` command
-#### run command `npm run start` to start the server
+#### step 2: run command `npm run start` to start the server
 # Tech stack used
 #### NodeJs
 #### ExpressJs
